@@ -5,7 +5,7 @@
 ![Build Status](https://travis-ci.org/wdullaer/MaterialDateTimePicker.svg?branch=master)
 
 
-Material DateTime Picker tries to offer you the date and time pickers as shown in [the Material Design spec](http://www.google.com/design/spec/components/pickers.html), with an
+ DateTime Picker tries to offer you the date and time pickers as shown in [the Material Design spec](http://www.google.com/design/spec/components/pickers.html), with an
 easy themable API.
 The library uses [the code from the Android frameworks](https://android.googlesource.com/platform/frameworks/opt/datetimepicker/) as a base and tweaked it to be as close as possible to Material Design example.
 
