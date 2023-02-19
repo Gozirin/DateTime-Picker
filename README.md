@@ -11,8 +11,6 @@ The library uses [the code from the Android frameworks](https://android.googleso
 
 Support for Android 4.1 and up. (Android 4.0 was supported until 3.6.4)
 
-Feel free to fork or issue pull requests on github. Issues can be reported on the github issue tracker.
-
 **Version 2 Layout**
 
 Date Picker | Time Picker
